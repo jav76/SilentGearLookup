@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SilentGearLookup", "SilentGearLookup.csproj", "{DCAF7800-CC1F-44DA-9F75-D5203C0FCC82}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCAF7800-CC1F-44DA-9F75-D5203C0FCC82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCAF7800-CC1F-44DA-9F75-D5203C0FCC82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCAF7800-CC1F-44DA-9F75-D5203C0FCC82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCAF7800-CC1F-44DA-9F75-D5203C0FCC82}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {79D9DB9F-3E45-43A0-9D67-D09CAA682BC3}
+	EndGlobalSection
+EndGlobal
